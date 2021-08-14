@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UAS_10118435_Saeful Apriana</string>
+    <string name="React">
+        Hallo ! Sedang mencari tempat wisata?
+    </string>
+
+    <string name="Flutter">
+        Kami hadirkan aplikasi pencarian wisata yang berada di bandung untuk memudahkan rekreasi anda dengan keluarga.
+
+        stay save and healty :)
+    </string>
+
+
+
+    <string name="tentang">
+       Aplikasi ini merupakan aplikasi yang bertujuan tuntuk memudahkan pengguna mencari lokasi wisata menggunakan API dari google
+    </string>
+</resources>
+
